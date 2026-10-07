@@ -1,0 +1,13 @@
+[project]
+name = "electroll-parser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "opencv-python>=4.8",
+    "openpyxl>=3.1",
+    "pandas>=2.0",
+    "pymupdf>=1.24",
+    "pytesseract>=0.3.10",
+]
